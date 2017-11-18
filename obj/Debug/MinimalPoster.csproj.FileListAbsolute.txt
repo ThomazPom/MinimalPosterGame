@@ -16,3 +16,12 @@ C:\Users\Thoma\Documents\Visual Studio 2015\Projects\MinimalPoster\MinimalPoster
 C:\Users\Thoma\Documents\Visual Studio 2015\Projects\MinimalPoster\MinimalPoster\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Thoma\Documents\Visual Studio 2015\Projects\MinimalPoster\MinimalPoster\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Thoma\Documents\Visual Studio 2015\Projects\MinimalPoster\MinimalPoster\obj\Debug\MinimalPoster.csproj.GenerateResource.Cache
+C:\Users\Thoma\Desktop\MinimalPosterGame\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Thoma\Desktop\MinimalPosterGame\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Thoma\Desktop\MinimalPosterGame\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\MinimalPoster.csprojResolveAssemblyReference.cache
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Thoma\Desktop\MinimalPosterGame\obj\Debug\MinimalPoster.csproj.GenerateResource.Cache
